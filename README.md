@@ -1,4 +1,4 @@
-#PathAI - Your AI-powered Learning Sarthi 🚀
+## PathAI - Your AI-powered Learning Sarthi 🚀
 
 PathAI is an Android application designed to provide a focused, distraction-free learning environment by curating educational content from YouTube. The app uses AI and keyword-based filtering to deliver relevant educational videos.
 
